@@ -1,4 +1,4 @@
-require 'fizzbuzz'
+require "fizzbuzz"
 
 describe "fizzbuzz" do
   it "returns 'fizzbuzz' when number passed in is divisible by both 3 and 5" do
